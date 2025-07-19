@@ -1,0 +1,1 @@
+I am pleased to share that I have successfully completed my 1-month internship with Internorbit. During this period, I had the opportunity to enhance my skills and gain hands-on experience in HTML, CSS, and JavaScript.
